@@ -68,7 +68,11 @@ Bilingual **Spanish / English** (Humanitas Bilingual School).
 | Subject | Repository | Stack | What's inside |
 |---|---|---|---|
 | Operating Systems | [Sistemas-Operativos](https://github.com/MiguelHernandezz/Sistemas-Operativos) [![build](https://github.com/MiguelHernandezz/Sistemas-Operativos/actions/workflows/build.yml/badge.svg)](https://github.com/MiguelHernandezz/Sistemas-Operativos/actions) | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) | Unix minishell (`fork`, `exec`, pipes, `dup2`, `SIGCHLD`) and a POSIX-threads race with mutexes |
+| Computer Networks II | [Arquitectura-de-Redes-Avanzadas](https://github.com/MiguelHernandezz/Arquitectura-de-Redes-Avanzadas) | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) ![Cisco](https://img.shields.io/badge/Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white) | Captures of ICMP, DHCP, Ethernet and ARP; VLANs with 802.1Q trunks and Wi-Fi |
+| Advanced Databases | [Bases-de-Datos-Avanzadas](https://github.com/MiguelHernandezz/Bases-de-Datos-Avanzadas) [![build](https://github.com/MiguelHernandezz/Bases-de-Datos-Avanzadas/actions/workflows/build.yml/badge.svg)](https://github.com/MiguelHernandezz/Bases-de-Datos-Avanzadas/actions) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) | Storage internals on 30M rows, EXPLAIN tuning, WAL, users and privileges, deadlocks, PITR, replication |
+| Advanced Programming | [Programacion-Avanzada](https://github.com/MiguelHernandezz/Programacion-Avanzada) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | Concurrent simulations with threads, monitors and `ReentrantLock`/`Condition`, plus Java RMI clients |
 | Data Structures | [Estructura-de-Datos](https://github.com/MiguelHernandezz/Estructura-de-Datos) [![build](https://github.com/MiguelHernandezz/Estructura-de-Datos/actions/workflows/build.yml/badge.svg)](https://github.com/MiguelHernandezz/Estructura-de-Datos/actions) | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) | Hand-written linked queues, stacks, lists and a binary search tree; CI runs under AddressSanitizer |
+| Algorithms & Complexity | [Algoritmia-y-Complejidad](https://github.com/MiguelHernandezz/Algoritmia-y-Complejidad) [![build](https://github.com/MiguelHernandezz/Algoritmia-y-Complejidad/actions/workflows/build.yml/badge.svg)](https://github.com/MiguelHernandezz/Algoritmia-y-Complejidad/actions) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | 0/1 knapsack DP and TSP by branch and bound over the UAH campus graph |
 | Programming | [Programacion](https://github.com/MiguelHernandezz/Programacion) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | JavaEvents: Swing app to publish, search and book events, with object serialization |
 | Software Engineering | [Ingenieria-de-Software](https://github.com/MiguelHernandezz/Ingenieria-de-Software) | ![UML](https://img.shields.io/badge/UML-5C2D91?style=flat-square) ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white) | IEEE 830 requirements and UML design; JUnit, white-box and black-box testing |
 | Statistics | [Estadistica](https://github.com/MiguelHernandezz/Estadistica) | ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) | COVID-19 vs public transport in Spain: descriptive stats and hypothesis testing |
@@ -81,8 +85,7 @@ Bilingual **Spanish / English** (Humanitas Bilingual School).
 |---|---|
 | ✅ | Networking & OS foundations (UAH coursework) |
 | 🔄 | Home SOC lab: SIEM, IDS, detection rules |
-| ✅ | Coursework published with tests and CI: operating systems, data structures, software engineering |
-| ⏭️ | Networks and databases repos with security notes |
+| ✅ | Coursework published with tests and CI: operating systems, networks, databases, data structures, algorithms |
 | ⏭️ | CTF write-ups (recon → foothold → privesc, plus how to detect each step) |
 
 ---
