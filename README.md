@@ -63,7 +63,7 @@ Bilingual **Spanish / English** (Humanitas Bilingual School).
 
 ## 🎓 Coursework · B.S. Computer Engineering · UAH
 
-> One repository per subject: lab code, reports and a README explaining what was built. Repos with a ![build](https://img.shields.io/badge/build-CI-00C853?style=flat-square) tag are compiled and tested on Linux by GitHub Actions on every push.
+> One repository per subject: lab code, reports and a README with what was built plus the official syllabus. Repos with a ![build](https://img.shields.io/badge/build-CI-00C853?style=flat-square) tag are compiled and tested on Linux by GitHub Actions on every push.
 
 | Subject | Repository | Stack | What's inside |
 |---|---|---|---|
@@ -76,6 +76,25 @@ Bilingual **Spanish / English** (Humanitas Bilingual School).
 | Programming | [Programacion](https://github.com/MiguelHernandezz/Programacion) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | JavaEvents: Swing app to publish, search and book events, with object serialization |
 | Software Engineering | [Ingenieria-de-Software](https://github.com/MiguelHernandezz/Ingenieria-de-Software) | ![UML](https://img.shields.io/badge/UML-5C2D91?style=flat-square) ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white) | IEEE 830 requirements and UML design; JUnit, white-box and black-box testing |
 | Statistics | [Estadistica](https://github.com/MiguelHernandezz/Estadistica) | ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) | COVID-19 vs public transport in Spain: descriptive stats and hypothesis testing |
+
+<details>
+<summary>📚 <b>Foundation subjects</b>: syllabus from the official teaching guides (click to expand)</summary>
+<br>
+
+| Subject | Repository | Topics |
+|---|---|---|
+| Network Architecture | [Arquitectura-de-Redes](https://github.com/MiguelHernandezz/Arquitectura-de-Redes) | OSI and TCP/IP, HTTP, DNS, sockets, TCP/UDP congestion control |
+| Databases | [Bases-de-Datos](https://github.com/MiguelHernandezz/Bases-de-Datos) | ER and relational model, SQL, triggers, normalisation |
+| Computer Structure & Organisation | [Estructura-y-Organizacion-de-Computadores](https://github.com/MiguelHernandezz/Estructura-y-Organizacion-de-Computadores) | Datapath, ISA, cache, x86 assembly |
+| Computer Technology Fundamentals | [Fundamentos-de-Tecnologia-de-Computadores](https://github.com/MiguelHernandezz/Fundamentos-de-Tecnologia-de-Computadores) | Number systems, combinational and sequential logic |
+| Programming Fundamentals | [Fundamentos-de-Programacion](https://github.com/MiguelHernandezz/Fundamentos-de-Programacion) | Control flow, functions, recursion |
+| Discrete Structures | [Estructuras-Discretas](https://github.com/MiguelHernandezz/Estructuras-Discretas) | Logic, combinatorics, graph theory |
+| Advanced Mathematics | [Matematicas-Avanzadas](https://github.com/MiguelHernandezz/Matematicas-Avanzadas) | Modular arithmetic and RSA, finite fields, multivariable calculus |
+| Mathematical Foundations | [Fundamentos-Matematicos](https://github.com/MiguelHernandezz/Fundamentos-Matematicos) | Linear algebra, simplex, calculus |
+| Physics | [Fisica](https://github.com/MiguelHernandezz/Fisica) | Electromagnetism and circuits |
+| Business Fundamentals | [Fundamentos-de-la-Empresa](https://github.com/MiguelHernandezz/Fundamentos-de-la-Empresa) | Business economics, investment appraisal, accounting |
+
+</details>
 
 ---
 
