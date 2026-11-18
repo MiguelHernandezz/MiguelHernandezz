@@ -4,6 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&pause=1100&color=00C853&center=true&vCenter=true&width=720&lines=%24+whoami+%E2%86%92+aspiring+SOC+analyst+%2F+pentester;Networks+%7C+Linux+%7C+C+%7C+Python+%7C+SQL;Bilingual+ES+%2F+EN+%C2%B7+open+to+remote;Looking+for+a+cybersecurity+internship)](https://github.com/MiguelHernandezz)
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-miguelhernandezz.github.io-00E07A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://miguelhernandezz.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-miguel--hernandez--lopez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-hernandez-lopez/)
 ![Open](https://img.shields.io/badge/Open_to-Security_internships_·_Remote-00C853?style=for-the-badge&labelColor=161B22)
 
